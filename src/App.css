@@ -4,7 +4,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-image:linear-gradient(red, yellow);; /* Set your background color or image */
+  background-image:linear-gradient(red, yellow);
 }
 
 .app-container {
